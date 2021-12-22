@@ -1,6 +1,6 @@
 # Tabs Component
 
-Click [here](https://ioannis-sporidis.github.io/rc-pagination/) to check out the component.
+Click [here](https://ioannis-sporidis.github.io/rc-tabs/) to check out the component.
 
 ## Dependencies
 
