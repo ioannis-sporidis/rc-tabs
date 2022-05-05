@@ -1,6 +1,6 @@
 # Tabs Component
 
-Check out the component [here](https://ioannis-sporidis.github.io/rc-tabs/)
+Check out the component [here](https://the-fetaverse.github.io/rc-tabs/)
 
 ## Dependencies
 
